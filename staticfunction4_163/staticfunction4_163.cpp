@@ -39,7 +39,7 @@ void mahasiswa::cetak() {
 int main() {
 	mahasiswa mhs1;
 	mahasiswa mhs2(20);
-	mahasiswa mhs3("Rezza");
+	mahasiswa mhs3("Dimas");
 	mahasiswa mhs4(30, "Rasya");
 
 	mhs1.cetak();

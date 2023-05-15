@@ -13,7 +13,7 @@ public:
 	mahasiswa(string pnama) :nama(pnama) { setid(); }
 };
 
-
+int mahasiswa::nim = 0;
 
 
 
